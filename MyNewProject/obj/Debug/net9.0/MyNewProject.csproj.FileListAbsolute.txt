@@ -1,0 +1,15 @@
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\bin\Debug\net9.0\MyNewProject.exe
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\bin\Debug\net9.0\MyNewProject.deps.json
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\bin\Debug\net9.0\MyNewProject.runtimeconfig.json
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\bin\Debug\net9.0\MyNewProject.dll
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\bin\Debug\net9.0\MyNewProject.pdb
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\MyNewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\MyNewProject.AssemblyInfoInputs.cache
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\MyNewProject.AssemblyInfo.cs
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\MyNewProject.csproj.CoreCompileInputs.cache
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\MyNewProject.sourcelink.json
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\MyNewProject.dll
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\refint\MyNewProject.dll
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\MyNewProject.pdb
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\MyNewProject.genruntimeconfig.cache
+C:\Users\koppu\OneDrive\Desktop\App dev(Manish)\competition-practice\MyNewProject\obj\Debug\net9.0\ref\MyNewProject.dll
